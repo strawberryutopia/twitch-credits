@@ -1,6 +1,6 @@
 # Credits
 
-All / Most art that I use on my Twitch channel.
+All / Most art that I use on [my Twitch channel](https://www.twitch.tv/strawberryutopia/).
 
 If I'm missing anything, or anything is misattributed, please [let me know](https://github.com/strawberryutopia/twitch-credits/issues) :)
 
