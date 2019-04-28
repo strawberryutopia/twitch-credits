@@ -135,6 +135,8 @@ Also available on YouTube Audio Library
 
 Howling - Lupus Nocte
 
+New intro music
+
 [Epidemic Sound](https://www.epidemicsound.com/search/?search_query=howling%20lupus%20nocte)
 
 ### Safety Net
