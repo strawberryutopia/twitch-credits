@@ -125,9 +125,17 @@ In-stream music is (usually) from http://pretzel.rocks, and will be attributed i
 
 Powerup! - Jeremy Blake
 
+Usually used as my Intro music
+
 [https://soundcloud.com/jeremyblake/powerup](https://soundcloud.com/jeremyblake/powerup)
 
 Also available on YouTube Audio Library
+
+### Howling
+
+Howling - Lupus Nocte
+
+[Epidemic Sound](https://www.epidemicsound.com/search/?search_query=howling%20lupus%20nocte)
 
 ### Safety Net
 by Riot
