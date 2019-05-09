@@ -55,6 +55,20 @@ Made by [https://www.twitch.tv/seraphimkimiko](https://www.twitch.tv/seraphimkim
 
 The original Go gopher was designed by Renee French. ([http://reneefrench.blogspot.com/](http://reneefrench.blogspot.com/))
 
+### Strawberry
+
+![Strawberry by Julieta Mascarella](images/strawberry.png)
+
+By [Julieta Mascarella](https://pixabay.com/users/julieta_masc-5768105/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2850845)
+
+Available here: [https://pixabay.com/illustrations/strawberry-red-rosa-network-pink-2850845/](https://pixabay.com/illustrations/strawberry-red-rosa-network-pink-2850845/)
+
+[Pixabay License](https://pixabay.com/service/license/)
+
+* Free for commercial use
+* No attribution required
+
+
 ## Backgrounds
 
 ### Purple Bokeh
@@ -66,8 +80,9 @@ By Pixabay - [https://www.pexels.com/@pixabay](https://www.pexels.com/@pixabay)
 Available here: [https://www.pexels.com/photo/abstract-art-background-blur-220072/](https://www.pexels.com/photo/abstract-art-background-blur-220072/)
 
 CC0 License
-Free for personal use and commercial use
-Attribution not required, but appreciated
+
+* Free for personal use and commercial use
+* Attribution not required, but appreciated
 
 ### Blue, Green, Orange and Red Rainbow Design Decoration
 
@@ -78,8 +93,9 @@ By Francesco Ungaro - [https://www.pexels.com/@francesco-ungaro](https://www.pex
 Available here: [https://www.pexels.com/photo/blue-green-orange-and-red-rainbow-design-decoration-673648/](https://www.pexels.com/photo/blue-green-orange-and-red-rainbow-design-decoration-673648/)
 
 CC0 License
-Free for personal use and commercial use
-Attribution not required, but appreciated
+
+* Free for personal use and commercial use
+* Attribution not required, but appreciated
 
 ## Fonts
 
@@ -94,8 +110,9 @@ Available here: [https://creativemarket.com/creativityrush/2285373-20-OFF-Montau
 
 Creative Market Standard License (Installable Items)
 [https://creativemarket.com/licenses](https://creativemarket.com/licenses)
-Commercial Use - Unlimited Projects
-Attribution not required, but appreciated
+
+* Commercial Use - Unlimited Projects
+* Attribution not required, but appreciated
 
 
 ### 04b 30 Font
@@ -154,3 +171,11 @@ by Vibe Mountain
 
 Also available on YouTube Audio Library
 
+## Intro Video
+
+### Outrun Grid Animation Loop
+by RoyaltyFreeTube
+
+[https://www.youtube.com/watch?v=pvomDfQmhWQ](https://www.youtube.com/watch?v=pvomDfQmhWQ)
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
