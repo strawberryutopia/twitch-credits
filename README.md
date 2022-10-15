@@ -77,6 +77,15 @@ Available here: [https://pixabay.com/illustrations/strawberry-red-rosa-network-p
 * No attribution required
 
 
+### Blahaj
+
+![Blahaj emotes](https://pbs.twimg.com/media/FJlobZjUcAQRk1P?format=png&name=900x900)
+
+By [heatherhorns](https://twitter.com/heatherhorns/status/1484332380705865730)
+
+* "these are all free for use"
+
+
 ## Backgrounds
 
 ### Purple Bokeh
